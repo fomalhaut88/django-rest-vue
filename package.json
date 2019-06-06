@@ -1,0 +1,22 @@
+{
+  "name": "django-rest-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/cli": "^3.8.2",
+    "babel-loader": "^8.0.6",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.0",
+    "vue-resource": "^1.5.1",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.33.0",
+    "webpack-bundle-tracker": "^0.4.2-beta",
+    "webpack-cli": "^3.3.2"
+  }
+}
